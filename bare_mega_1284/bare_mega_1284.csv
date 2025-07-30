@@ -1,0 +1,14 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1,C11,C5,C4,C3,C2";"CAPC340180_88N_KEM-L";6;"100nF";;;
+2;"U4";"USB2.0 Serial";1;"FT231XS-U";;;
+3;"TP20,TP11,TP44,TP37,TP34,TP36,TP21,TP43,TP19,TP22";"TestPoint_Pad_2.0x2.0mm";10;"TestPoint";;;
+4;"U1";"44A_ATM";1;"ATMEGA1284P-AU";;;
+5;"C10,C9";"CAPC340180_88N_KEM-L";2;"22pF";;;
+6;"S1";"small_button";1;"PTS526SM15SMTR2_LFS";;;
+7;"R2,R1";"RC0805N_YAG-L";2;"5.1k";;;
+8;"Y1";"Crystal 16MHz";1;"Crystal 16.MHZ";;;
+9;"R7";"R_2010_5025Metric";1;"10k";;;
+10;"R6";"R_0805_2012Metric_Pad1.20x1.40mm_HandSolder";1;"330";;;
+11;"LED1";"LED_RED_0805";1;"LTST-C171KRKT";;;
+12;"CON1";"CONN10_302-S101_OST";1;"302-S101";;;
+13;"J1";"GCT_USB4085-GF-A_REVB";1;"USB4085-GF-A_REVB";;;
